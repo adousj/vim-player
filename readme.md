@@ -2,6 +2,11 @@
 
 tags: vim, ffmpeg, opencv, python, aalib
 
+## Demo
+```
+http://v.youku.com/v_show/id_XNzk3NzMzMTE2.html
+```
+
 ## 视频转图片
 使用 ffmpeg 将一个视频转成单帧图片保存
 
